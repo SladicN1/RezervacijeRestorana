@@ -59,7 +59,7 @@ export default function KonobariDodaj(){
             <Col xs={6} sm={12} md={9} lg={6} xl={6} xxl={6}>
             <Button variant="success"
             type="submit"
-            className="siroko">Dodaj smjer</Button>
+            className="siroko">Dodaj konobara</Button>
             </Col>
         </Row>
         </Form>

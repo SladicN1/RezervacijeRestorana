@@ -1,9 +1,10 @@
 
+import slika1 from '../assets/slika1.jpg'
 
 export default function Pocetna(){
     return(
         <>
-        Ovdje će doći nešto pametnije kasnije
+        <img src={slika1} alt="Opis slike" />
         </>
     )
 }

@@ -52,7 +52,7 @@ export default function KonobariPregled(){
     return(
         <>
         <Link to={RouteNames.KONOBAR_NOVI}
-        className="btn btn-success siroko">Dodaj novi konobar</Link>
+        className="btn btn-success siroko">Dodaj novog konobara</Link>
         <Table striped bordered hover responsive>
             <thead>
                 <tr>
